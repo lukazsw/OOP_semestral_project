@@ -7,5 +7,6 @@ int main() {
     string n = "test";
     unsigned long x = n.size();
     cout << x << "\n";
+    cout << x + 1 << "\n";
     return 0;
 }
